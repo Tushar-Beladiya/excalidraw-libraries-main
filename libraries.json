@@ -2231,5 +2231,22 @@
     "created": "2022-08-26",
     "updated": "2022-08-26",
     "version": 2
+  },
+  {
+    "name": "New",
+    "description": "New",
+    "authors": [
+      {
+        "name": "New",
+        "github": "",
+        "twitter": "",
+        "url": ""
+      }
+    ],
+    "source": "new/new.acv",
+    "preview": "new/new.jpg",
+    "created": "2022-08-31",
+    "updated": "2022-08-31",
+    "version": 2
   }
 ]
