@@ -1,0 +1,67 @@
+{
+  "type": "excalidrawlib",
+  "version": 2,
+  "source": "https://localhost:3000",
+  "libraryItems": [
+    {
+      "status": "published",
+      "elements": [
+        {
+          "id": "w1PHO2SfLBORITU4tcIX2",
+          "type": "rectangle",
+          "x": -1385.3166333877894,
+          "y": -204.43428571428535,
+          "width": 231,
+          "height": 150,
+          "angle": 0,
+          "strokeColor": "#000000",
+          "backgroundColor": "#fab005",
+          "fillStyle": "hachure",
+          "strokeWidth": 1,
+          "strokeStyle": "solid",
+          "roughness": 1,
+          "opacity": 100,
+          "groupIds": [],
+          "strokeSharpness": "sharp",
+          "seed": 476104821,
+          "version": 93,
+          "versionNonce": 2094581815,
+          "isDeleted": false,
+          "boundElementIds": null,
+          "updated": 1661950650675,
+          "lessonId": "c40e3148-ac92-51a8-9307-0ac56ab71605",
+          "teacherEmailId": "tb@tangibleitdemo.com"
+        },
+        {
+          "id": "aq3w84KgN9OWNuXOCFaPQ",
+          "type": "ellipse",
+          "x": -1343.3166333877894,
+          "y": -242.43428571428535,
+          "width": 155,
+          "height": 219,
+          "angle": 0,
+          "strokeColor": "#000000",
+          "backgroundColor": "#fab005",
+          "fillStyle": "hachure",
+          "strokeWidth": 1,
+          "strokeStyle": "solid",
+          "roughness": 1,
+          "opacity": 100,
+          "groupIds": [],
+          "strokeSharpness": "sharp",
+          "seed": 1293986135,
+          "version": 43,
+          "versionNonce": 452502775,
+          "isDeleted": false,
+          "boundElementIds": null,
+          "updated": 1661950652984,
+          "lessonId": "c40e3148-ac92-51a8-9307-0ac56ab71605",
+          "teacherEmailId": "tb@tangibleitdemo.com"
+        }
+      ],
+      "id": "e99_UruoXFhCFVRdsRdCr",
+      "created": 1661951987330,
+      "name": "bk"
+    }
+  ]
+}
