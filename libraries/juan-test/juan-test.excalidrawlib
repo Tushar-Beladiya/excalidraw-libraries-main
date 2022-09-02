@@ -1,0 +1,69 @@
+{
+  "type": "excalidrawlib",
+  "version": 2,
+  "source": "https://localhost:3000",
+  "libraryItems": [
+    {
+      "status": "published",
+      "elements": [
+        {
+          "id": "Y6r_tIiLH_XV7C3QYn63a",
+          "type": "rectangle",
+          "x": -1461.3166333877894,
+          "y": -215.43428571428535,
+          "width": 277,
+          "height": 189,
+          "angle": 0,
+          "strokeColor": "#000000",
+          "backgroundColor": "#e64980",
+          "fillStyle": "hachure",
+          "strokeWidth": 1,
+          "strokeStyle": "solid",
+          "roughness": 1,
+          "opacity": 100,
+          "groupIds": [],
+          "strokeSharpness": "sharp",
+          "seed": 372215807,
+          "version": 36,
+          "versionNonce": 1982754417,
+          "isDeleted": false,
+          "boundElementIds": null,
+          "updated": 1662092531924
+        },
+        {
+          "id": "qmp1PP8G1gnARu_Dcf6Nc",
+          "type": "text",
+          "x": -1429.3166333877894,
+          "y": -138.43428571428535,
+          "width": 208,
+          "height": 50,
+          "angle": 0,
+          "strokeColor": "#000000",
+          "backgroundColor": "#e64980",
+          "fillStyle": "hachure",
+          "strokeWidth": 1,
+          "strokeStyle": "solid",
+          "roughness": 1,
+          "opacity": 100,
+          "groupIds": [],
+          "strokeSharpness": "sharp",
+          "seed": 2093500721,
+          "version": 87,
+          "versionNonce": 1085972607,
+          "isDeleted": false,
+          "boundElementIds": null,
+          "updated": 1662092543775,
+          "text": "lets publish with juan\n",
+          "fontSize": 20,
+          "fontFamily": 1,
+          "textAlign": "left",
+          "verticalAlign": "top",
+          "baseline": 43
+        }
+      ],
+      "id": "l-WkoPwyQ7f6kY6XTfDOB",
+      "created": 1662092550595,
+      "name": "Juan-test"
+    }
+  ]
+}
