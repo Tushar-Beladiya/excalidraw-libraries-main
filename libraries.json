@@ -2231,5 +2231,22 @@
     "created": "2022-08-26",
     "updated": "2022-08-26",
     "version": 2
+  },
+  {
+    "name": "baby admin",
+    "description": "This is baby admin lib for fun ",
+    "authors": [
+      {
+        "name": "Tushar Beladiya",
+        "github": "",
+        "twitter": "",
+        "url": ""
+      }
+    ],
+    "source": "https://acvstorageprod.blob.core.windows.net/collecations/tushar-beladiya.acv",
+    "preview": "https://acvstorageprod.blob.core.windows.net/collecations/tushar-beladiya.jpg",
+    "created": "2022-09-05",
+    "updated": "2022-09-05",
+    "version": 2
   }
 ]
