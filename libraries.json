@@ -2231,5 +2231,22 @@
     "created": "2022-08-26",
     "updated": "2022-08-26",
     "version": 2
+  },
+  {
+    "name": "test",
+    "description": "testtest-lib-with-juan",
+    "authors": [
+      {
+        "name": "test-lib-with-juan",
+        "github": "",
+        "twitter": "",
+        "url": ""
+      }
+    ],
+    "source": "https://acvstorageprod.blob.core.windows.net/collecations/test-lib-with-juan.acv",
+    "preview": "https://acvstorageprod.blob.core.windows.net/collecations/test-lib-with-juan.jpg",
+    "created": "2022-09-08",
+    "updated": "2022-09-08",
+    "version": 2
   }
 ]
